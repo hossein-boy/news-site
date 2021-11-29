@@ -193,7 +193,7 @@ div.grid-container {
 }
 .aside-logos a img {
   filter: grayscale(100%);
-  -webkit-transition: filter 700ms;
+  transition: filter 700ms;
 }
 .aside-logos a:hover img {
   filter: grayscale(0);
